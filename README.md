@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adhiraj Kar</h1>
 <h3 align="center">A passionate full-stack developer from Bangalore, India</h3>
 
-- 🔭 I’m currently working in **ProIU Tech as a Full-stack Intern**
+- 🔭 I’m currently working at **ProIU Tech as a Full-stack Intern**
 
-- 🌱 I’m currently learning **AWS, GraphQL**
+- 🌱 I’m currently learning **GraphQL, AWS**
 
 - 💬 Ask me about **Javascript, Node, React**
 
