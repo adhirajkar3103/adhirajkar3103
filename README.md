@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **ProIU Tech as a Full-stack Intern**
 
-- 🌱 I’m currently learning **NextJS and GraphQL**
+- 🌱 I’m currently learning **NextJS and AWS**
 
 - 💬 Ask me about **Javascript, Node, React**
 
