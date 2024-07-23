@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_rTrAZq1qgBdAgVUoIwhFl9KOqq2T9uL/view?usp=sharing)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhirajkar3103&hide=python&theme=tokyonight)
 
 
 <h3 align="left">Languages and Tools:</h3>
